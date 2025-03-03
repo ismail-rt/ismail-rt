@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Ismail (@ismail-rt)
 
-🚀 **Full-Stack Developer | AI Enthusiast | Cloud & DevOps Expert | Laravel Architect**  
+🚀 **Full-Stack Developer | AI Enthusiast | Cloud & DevOps Expert | Solutions Architect**  
 
 🔹 **12+ years of experience** in software development  
 🔹 Passionate about **AI, Python, Cloud Computing, and DevOps**  
