@@ -14,7 +14,14 @@
 ### 🧠 AI & Machine Learning
 - **Python** for automation, AI, and data-driven applications  
 - Built **AI-powered SQL query generator** for dynamic database interactions  
-- Expertise in **LLMs (Llama, OpenAI, custom AI models)**  
+- Expertise in **LLMs (Llama, OpenAI, custom AI models)**   
+
+### 🛡️ AI Cybersecurity
+- Developed **no-code AI cybersecurity platform** for small businesses to audit and secure infrastructure  
+- Integrated **machine learning for threat detection**, log monitoring, and anomaly detection  
+- Experience with **SIEM tools**, **SOC2 audit prep**, and **firewall rule generation via AI agents**  
+- Built **automated vulnerability scanners**, integrated with Slack/email alerts for critical threats  
+- Familiar with **endpoint protection**, **IAM auditing**, and **zero-trust architecture using AI insights**
 
 ### 💻 Full-Stack Development
 - Deep expertise in **Python, PHP, and JavaScript**  
