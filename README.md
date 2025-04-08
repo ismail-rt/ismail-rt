@@ -54,7 +54,14 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> 
+<!-- Cybersecurity Related -->
+  <img src="https://img.shields.io/badge/-Cybersecurity-0F9D58?style=flat-square&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOC2_Compliance-3C3C3D?style=flat-square&logo=trustpilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SIEM-7952B3?style=flat-square&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IAM_Security-2196F3?style=flat-square&logo=keybase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP_Top10-F44336?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zero_Trust-607D8B?style=flat-square&logo=cloudflare&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
