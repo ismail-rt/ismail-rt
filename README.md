@@ -4,10 +4,10 @@
 
 **Python** and **Node.js** engineer. I ship APIs, automation, and AI-backed products, then take the same care into public open source — small, tested fixes in code other people actually run.
 
-[![GitHub](https://img.shields.io/badge/github-ismail--rt-181717?style=for-the-badge&logo=github)](https://github.com/ismail-rt)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<p>
+  <a href="https://github.com/ismail-rt"><img src="https://img.shields.io/badge/GitHub-ismail--rt-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/ismail-muhammad"><img src="https://img.shields.io/badge/LinkedIn-ismail--muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,django,ts,js,postgres,redis,docker,aws,linux" alt="Python, Node.js, Express, FastAPI, Django, TypeScript, JavaScript, Postgres, Redis, Docker, AWS, Linux" />
 
@@ -42,19 +42,18 @@ Postgres, Redis, Docker, and AWS when the product needs them. I do not list ever
 
 | | |
 | --- | --- |
-| [**Applyuminati**](https://github.com/ismail-rt/Applyuminati) | Python. AI job-search assistant: find roles, score fit, research employers, tailor applications. |
-| [**verified_node_plugin**](https://github.com/ismail-rt/verified_node_plugin) | Node.js. Import 500k+ WooCommerce products without dragging a PHP plugin through WordPress. |
+| [**mdpublish**](https://github.com/ismail-rt/mdpublish) | Node.js. CLI and library that validates markdown frontmatter and writes a typed blog manifest — no CMS required. |
 | [**google-drive-business-os**](https://github.com/ismail-rt/google-drive-business-os) | Apps Script. Turn a messy Drive into a structured workspace — folders, dashboards, fewer duplicates. |
 
 ---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ismail-rt&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-rt&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
 
 <br />
 
-[github.com/ismail-rt](https://github.com/ismail-rt)
+[LinkedIn](https://linkedin.com/in/ismail-muhammad)
 
 </div>
