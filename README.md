@@ -44,18 +44,3 @@ Postgres, Redis, Docker, and AWS when the product needs them. I do not list ever
 | --- | --- |
 | [**mdpublish**](https://github.com/ismail-rt/mdpublish) | Node.js. CLI and library that validates markdown frontmatter and writes a typed blog manifest — no CMS required. |
 | [**google-drive-business-os**](https://github.com/ismail-rt/google-drive-business-os) | Apps Script. Turn a messy Drive into a structured workspace — folders, dashboards, fewer duplicates. |
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=github_dark#gh-dark-mode-only" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=default#gh-light-mode-only" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=github_dark#gh-dark-mode-only" alt="Top languages" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=default#gh-light-mode-only" alt="Top languages" />
-
-<br />
-
-[LinkedIn](https://linkedin.com/in/ismail-muhammad)
-
-</div>
