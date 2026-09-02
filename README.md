@@ -49,8 +49,14 @@ Postgres, Redis, Docker, and AWS when the product needs them. I do not list ever
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages" />
+</picture>
 
 <br />
 
