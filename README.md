@@ -49,14 +49,10 @@ Postgres, Redis, Docker, and AWS when the product needs them. I do not list ever
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
-  <img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages" />
-</picture>
+<img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=github_dark#gh-dark-mode-only" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=ismail-rt&show_icons=true&hide_border=true&count_private=true&theme=default#gh-light-mode-only" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=github_dark#gh-dark-mode-only" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismail-rt&layout=compact&hide_border=true&langs_count=6&theme=default#gh-light-mode-only" alt="Top languages" />
 
 <br />
 
